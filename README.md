@@ -2,6 +2,9 @@
 Asteroids Game built in Python using pygame library
 
 
+<b><ul> Download Link: </ul></b>  | [Asteroids.zip](https://github.com/jonrenzo/Asteroids-Pygame/files/9915125/Asteroids.zip)
+
+
 
 * All assests are created using Photoshop
 
